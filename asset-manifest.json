@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sandy-Gulja/projectleapkim.git/static/css/main.5c09e2d2.css",
+    "main.js": "/Sandy-Gulja/projectleapkim.git/static/js/main.4c536ee9.js",
+    "static/js/453.2c7621b7.chunk.js": "/Sandy-Gulja/projectleapkim.git/static/js/453.2c7621b7.chunk.js",
+    "index.html": "/Sandy-Gulja/projectleapkim.git/index.html",
+    "main.5c09e2d2.css.map": "/Sandy-Gulja/projectleapkim.git/static/css/main.5c09e2d2.css.map",
+    "main.4c536ee9.js.map": "/Sandy-Gulja/projectleapkim.git/static/js/main.4c536ee9.js.map",
+    "453.2c7621b7.chunk.js.map": "/Sandy-Gulja/projectleapkim.git/static/js/453.2c7621b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c09e2d2.css",
+    "static/js/main.4c536ee9.js"
+  ]
+}
